@@ -48,6 +48,16 @@ A token is a representation of something on the blockchain. This something can b
 - Documents
 - Games
 
+## Use cases from virtual worlds
+- Virtual collectibles like unique kittens
+- collectible cards
+
+## Use cases of 'negative values'
+NFTs can also represent:
+- Loans
+- Burdens
+- Other responsibilities
+
 ## How NFTs are created?
 - File (Paint, art etc) + unique_id -----> NFT
 - If you want multiple copies:
