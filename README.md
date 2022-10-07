@@ -1,3 +1,7 @@
+## What is a Token?
+    A token is a representation of something on the blockchain. This something can be money, time, sercives, virtual pets, shares in a company or anything else. By representing things as token we allow smart contracts to interact with, create, echange and destroy them.
+
+
 ## What is a Fungible Item?
 - Exchangeable.
 - Every individual is equivalent.
